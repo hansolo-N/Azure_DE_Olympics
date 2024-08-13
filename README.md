@@ -32,3 +32,6 @@ Dataset used - https://github.com/hansolo-N/Azure_DE_Olympics/tree/main/data
 3. Disciplines
    - Athletics had the most participants with 2041 contestants
    - Cycling BMX freestyle had the least with 19 contestants
+
+## Visualizations
+![Visual graphs of data.](basic_analysis.jpeg)
