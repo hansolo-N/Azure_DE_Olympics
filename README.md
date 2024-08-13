@@ -20,3 +20,15 @@ The Tokyo Olympics dataset includes CSV files covering various aspects such as a
 
 Dataset used - https://github.com/hansolo-N/Azure_DE_Olympics/tree/main/data
 
+
+## Analysis
+1. The total number of events for both men and women were approximately the same, with men having having participated in slightly more events
+   - Men: 120 events
+   - Women: 114 events
+2. Teams with the most gold medals
+   - The USA won the most with 39 gold medals
+   - China second with 38 gold medals
+   - Japan with 27 gold medals
+3. Disciplines
+   - Athletics had the most participants with 2041 contestants
+   - Cycling BMX freestyle had the least with 19 contestants
