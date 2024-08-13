@@ -34,4 +34,4 @@ Dataset used - https://github.com/hansolo-N/Azure_DE_Olympics/tree/main/data
    - Cycling BMX freestyle had the least with 19 contestants
 
 ## Visualizations
-![Visual graphs of data.](basic_analysis.jpeg)
+![Visual graphs of data.](basic_analysis.png)
