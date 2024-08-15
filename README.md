@@ -13,7 +13,7 @@ This project aims to analyze data from the Tokyo 2020 Olympics using Microsoft A
    - Data Lake Storage Gen2
    - Azure Databricks
    - Azure Sunapse Analytics
-3. Looker Studio
+3. Power BI
 
 ## Dataset
 The Tokyo Olympics dataset includes CSV files covering various aspects such as athletes, coaches, teams, medals, and gender-based entries. This comprehensive data provides insights into the participation and performance details from the 2020 Tokyo Olympics.
